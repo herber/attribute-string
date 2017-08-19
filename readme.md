@@ -1,4 +1,5 @@
-# attribute-string [![Build Status](https://travis-ci.org/tobihrbr/attribute-string.svg?branch=master)](https://travis-ci.org/tobihrbr/attribute-string)
+# attribute-string [![Build Status](https://travis-ci.org/tobihrbr/attribute-string.svg?branch=master)](https://travis-ci.org/tobihrbr/attribute-string) [![Codestyle fyi](https://img.shields.io/badge/code%20style-fyi-E91E63.svg)](https://github.com/tobihrbr/fyi)
+
 
 > Generate html attribute strings
 
